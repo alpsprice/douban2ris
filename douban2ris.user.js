@@ -5,7 +5,9 @@
 // @namespace    https://greasyfork.org/en/scripts/567853-%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6%E4%B8%80%E9%94%AE%E5%AF%BC%E5%87%BAris
 // @author       alpsprice
 // @homepageURL  https://github.com/alpsprice/douban2ris/
-// @version      1.0
+// @downloadURL  https://github.com/alpsprice/douban2ris/blob/main/douban2ris.user.js
+// @updateURL    https://github.com/alpsprice/douban2ris/blob/main/douban2ris.user.js
+// @version      1.1
 // @license      MIT
 // @description  将豆瓣图书一键导出RIS格式文献引用（支持作者、译者、出版社、ISBN等）
 // @description:en  an easy way to export douban book to *.ris citation!
